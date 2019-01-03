@@ -68,6 +68,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Maranhão (MA)
 ### Pará (PA)
 * [Idopter Labs](http://www.idopterlabs.com.br)
+* [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
 ### Rondônia (RO)
 ### Roraima (RR)
 ### Tocantins (TO)
